@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3008","TC03 - Flujo Principal de Compra (E2E)","chromium","2026-10-26","passed","2026-10-26","SauceDemo E2E Tests","saucedemo.spec.ts","",""
+"","1363","TC02 - Login con Error","chromium","2026-10-26","passed","2026-10-26","SauceDemo E2E Tests","saucedemo.spec.ts","",""
+"","1893","TC01 - Login Exitoso","chromium","2026-10-26","passed","2026-10-26","SauceDemo E2E Tests","saucedemo.spec.ts","",""
+"","1613","TC04 - Ordenamiento por Precio","chromium","2026-10-26","passed","2026-10-26","SauceDemo E2E Tests","saucedemo.spec.ts","",""
